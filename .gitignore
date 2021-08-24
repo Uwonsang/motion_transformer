@@ -1,0 +1,7 @@
+/data/
+/loss_vis/
+/tensorboard/block_20s_discrete300_transformer/
+/load_json.ipynb
+/.ipynb_checkpoints/
+/__pycache__/
+/.idea
